@@ -8,7 +8,7 @@
 |性别|男|
 |年龄|21|
 |学历|本科|
-|照片|<img src="https://cdn.jsdelivr.net/gh/realJingYang/realJingYang.github.io@main/me.png" width = "300" height = "400" alt="图片名称" align=center />|
+|照片|<img src="./me.png" width = "300" height = "400" alt="图片名称" align=center />|
 |院校|北京师范大学 人工智能学院(公费师范)|
 |专业|计算机科学与技术|
 |常住地|四川省成都市|
